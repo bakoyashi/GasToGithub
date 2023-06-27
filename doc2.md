@@ -1,4 +1,4 @@
-undefined# タイムスタンプ
+# タイムスタンプ
 
 Tue Jun 27 2023 10:39:27 GMT+0900 (Japan Standard Time)
 
